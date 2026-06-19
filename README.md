@@ -1,7 +1,8 @@
 # Link media interactif
 Un petit composant web simple en **HTML & CSS** qui permet d'afficher une image ou une vidéo cliquable avec un effet hover élégant.
 
-Pour essayer : https://tatol.dev/github/Block-media-interactif/
+Pour essayer : https://anatol3.github.io/Link-media-interactif/
+// https://tatol.dev/github/Block-media-interactif/
 
 ## Aperçu
 
