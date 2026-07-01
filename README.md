@@ -17,5 +17,3 @@ Pour essayer : https://anatol3.github.io/Link-media-interactif/
 * Design responsive et animation fluide
 * Facilement modifiable
 
-## Défault
-L’interface sur mobile ne peut pas fonctionner comme sur PC car il n’y a pas de survol possible. Le bouton « Voir le site » ne s’affiche donc pas vraiment. Le media reste toujours cliquable, donc aucun réel problème en soi.
